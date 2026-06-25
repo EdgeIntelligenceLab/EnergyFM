@@ -63,35 +63,6 @@ The leaderboard provides standardized evaluations across multiple energy forecas
 
 ---
 
-## 🗂 Repository Structure
-
-
-```text id="4x4vkn"
-Dataset/             # Small samples from datasets used in the paper
-Energy-TTM/          # Energy-TTM: Model Checkpoint and config for Energy-TTM
-Energy-TSPulse/      # Energy-TSPulse: Model Checkpoint and config for Energy-TSPulse
-Notebooks/           # Tutorial notebooks and example workflows
-```
-
----
-
-## 🧑‍💻 Installation
-
-Clone the repository:
-
-```bash id="74otj1"
-git clone https://github.com/EdgeIntelligenceLab/energyfm.git
-cd energyfm
-```
-
-Install dependencies:
-
-```bash id="5o8r0m"
-pip install -r requirements.txt
-```
-
----
-
 ## 🚀 Getting Started
 
 ### Energy-TTM
@@ -133,16 +104,6 @@ EnergyFM builds on IBM’s **Granite Time Series Foundation Models (TSFM)** ecos
 
 * **Granite TSFM GitHub:** [ibm-granite/granite-tsfm](https://github.com/ibm-granite/granite-tsfm)
 * **Granite TSFM Wiki:** [Granite TSFM Wiki](https://github.com/ibm-granite/granite-tsfm/wiki)
-
----
-
-## 📂 Datasets
-
-This repository does **not** host the full pretraining or evaluation datasets.
-
-* Small sample datasets may be included for demonstration and tutorials
-* Full datasets used in the paper are released separately
-* Links to datasets and pretrained weights are provided through the project website and Hugging Face model cards
 
 ---
 
