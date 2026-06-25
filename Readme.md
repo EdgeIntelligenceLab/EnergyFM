@@ -36,6 +36,10 @@ This repository accompanies the paper:
 > **EnergyFM: Pretrained Models for Energy Meter Data Analytics**
 > *ACM e-Energy 2026*
 
+> [!IMPORTANT]
+> **EnergyFM has moved.**  
+> This project is now maintained under the **EnergyFM GitHub organization**. For the latest code, model releases, documentation, and updates, please visit:  
+> **[github.com/energyfms](https://github.com/energyfms)**
 ---
 
 ## ⚡ Models
@@ -93,21 +97,21 @@ pip install -r requirements.txt
 ### Energy-TTM
 
 * **Zero-Shot Forecasting**
-  [Open Notebook](https://github.com/EdgeIntelligenceLab/energyfm/blob/main/Notebooks/energy-TTM-zeroshot.ipynb)
+  [Open Notebook](https://github.com/energyfms/notebooks/blob/main/energy-TTM-zeroshot.ipynb)
 
 * **Fine-Tuning for Forecasting**
-  [Open Notebook](https://github.com/EdgeIntelligenceLab/energyfm/blob/main/Notebooks/energy-TTM-finetuning.ipynb)
+  [Open Notebook](https://github.com/energyfms/notebooks/blob/main/energy-TTM-finetuning.ipynb)
 
 ### Energy-TSPulse
 
 * **Zero-Shot Anomaly Detection**
-  [Open Notebook](https://github.com/EdgeIntelligenceLab/energyfm/blob/main/Notebooks/energy-tspulse_anomaly_detection_zeroshot.ipynb)
+  [Open Notebook](https://github.com/energyfms/notebooks/blob/main/energy-tspulse_anomaly_detection_zeroshot.ipynb)
 
 * **Fine-Tuning for Anomaly Detection**
-  [Open Notebook](https://github.com/EdgeIntelligenceLab/energyfm/blob/main/Notebooks/energy-tspulse_anomaly_detection_finetune.ipynb)
+  [Open Notebook](https://github.com/energyfms/notebooks/blob/main/energy-tspulse_anomaly_detection_finetune.ipynb)
 
 * **Appliance Classification (Fine-Tuning)**
-  [Open Notebook](https://github.com/EdgeIntelligenceLab/energyfm/blob/main/Notebooks/energy_tspulse_classification_finetuning.ipynb)
+  [Open Notebook](https://github.com/energyfms/notebooks/blob/main/energy_tspulse_classification_finetuning.ipynb)
 
 ---
 
